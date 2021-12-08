@@ -1,0 +1,46 @@
+/*inicio encabezado*/
+#encabezado{
+    height: 150px;
+    width: 96%;
+    padding-left: 4%;
+    background-color: aquamarine;
+    
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    float: left;
+    background-color: dodgerblue;
+}
+#nombreCafe{
+    height: 150px;
+    background-color: forestgreen;
+}
+/*inicio cuerpo*/
+.categoria{
+    height: 40px;
+    width: 100%;
+    background-color: darkgoldenrod;
+}
+.titulo{
+    margin: 0%;
+    margin-left: 5%;
+    position: fixed;
+}
+#postres{
+    height: 500px;
+    background-color: crimson;
+}
+#eventos{
+    height: 300px;
+    background-color: cyan;
+}
+#local{
+    height: 300px;
+    background-color: darkblue;
+}
+/*inicio pie*/
+#pie{
+    height: 100px;
+    background-color: deepskyblue;
+}
